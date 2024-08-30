@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import scipy.stats as stats
 
-data = pd.read_csv('/Users/zhanglinxuan/Desktop/Dataset (FV)/Dataset (test).csv')
+data = pd.read_csv('/Users/zhanglinxuan/Desktop/Dataset (FV)/Dataset (RP).csv')
 
 
 
